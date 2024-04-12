@@ -10,6 +10,8 @@ https://github.com/Envoy-VC/awesome-badges
 https://ohksj77.tistory.com/201
 ### 배지 색상 찾기
 https://simpleicons.org/?q=jpa
+### 테이블 만들기
+https://www.tablesgenerator.com/markdown_tables
 # 제목
 ## 제목
 ### 제목
