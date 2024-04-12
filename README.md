@@ -8,6 +8,8 @@
 https://github.com/Envoy-VC/awesome-badges
 ### 배지 색상 설정
 https://ohksj77.tistory.com/201
+### 배지 색상 찾기
+https://simpleicons.org/?q=jpa
 # 제목
 ## 제목
 ### 제목
